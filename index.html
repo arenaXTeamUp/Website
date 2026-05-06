@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>ArenaX · Download the app</title>
+  <title>ArenaX · Download APK</title>
   <link rel="stylesheet" href="style.css">
   <!-- Font Awesome 6 (free icons) -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -23,17 +23,16 @@
     <!-- main hero / download zone -->
     <div class="hero">
       <div class="hero-text">
-        <h1>Download the <span>ArenaX</span> app</h1>
+        <h1>Download the <span>ArenaX</span> APK</h1>
         <p>Organize, compete, and win — all from your mobile device. The only platform built for local tournaments.</p>
         <div class="badges">
           <div class="badge"><i class="fas fa-check-circle"></i> Free to join</div>
           <div class="badge"><i class="fas fa-chart-line"></i> Live brackets</div>
           <div class="badge"><i class="fas fa-users"></i> Team chat</div>
         </div>
-        <div class="download-buttons">
-          <a href="#" id="btn-google" class="btn-download google"><i class="fab fa-google-play"></i> Google Play</a>
-          <a href="#" id="btn-apple" class="btn-download apple"><i class="fab fa-apple"></i> App Store</a>
-          <a href="#" id="btn-apk" class="btn-download apk"><i class="fas fa-download"></i> Direct APK</a>
+        <div class="download-area">
+          <a href="#" id="direct-apk-btn" class="btn-apk-main"><i class="fas fa-download"></i> Download APK (v1.0)</a>
+          <p class="info-text"><i class="fas fa-shield-alt"></i> Direct from GitHub Releases → safe & fast</p>
         </div>
         <p class="qr-hint"><i class="fas fa-qrcode"></i> Scan from your phone → download instantly</p>
       </div>
@@ -50,21 +49,21 @@
       </div>
     </div>
 
-    <!-- simple bottom CTA -->
+    <!-- simple bottom CTA with APK only -->
     <div class="bottom-cta">
-      <h2><i class="fas fa-mobile-alt"></i> Only on mobile</h2>
-      <p>Get the full tournament experience — download ArenaX today.</p>
-      <button id="bottom-download" class="btn-outline"><i class="fas fa-download"></i> Download now</button>
+      <h2><i class="fas fa-mobile-alt"></i> Get the APK now</h2>
+      <p>No stores required — direct download from our official release page.</p>
+      <button id="bottom-apk-btn" class="btn-outline"><i class="fas fa-download"></i> Download ArenaX APK</button>
     </div>
 
     <footer>
       <p>© 2025 ArenaX · local tournament organizer platform</p>
-      <p class="tiny">app download landing page — available for iOS & Android</p>
+      <p class="tiny">APK only — Android 8.0+ recommended</p>
     </footer>
   </div>
 
-  <!-- toast message (JS will control) -->
-  <div id="toast-msg" class="toast-message">✨ ArenaX — App download ready</div>
+  <!-- toast message (JS controlled) -->
+  <div id="toast-msg" class="toast-message">✨ ArenaX — APK download ready</div>
 
   <script src="script.js"></script>
 </body>
