@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>ArenaX · Download the app</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Font Awesome 6 (free icons) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <!-- header / logo -->
+    <div class="brand">
+      <div class="logo">
+        <i class="fas fa-trophy"></i> Arena<span>X</span>
+      </div>
+      <div class="tagline">local tournament organizer</div>
+    </div>
+
+    <!-- main hero / download zone -->
+    <div class="hero">
+      <div class="hero-text">
+        <h1>Download the <span>ArenaX</span> app</h1>
+        <p>Organize, compete, and win — all from your mobile device. The only platform built for local tournaments.</p>
+        <div class="badges">
+          <div class="badge"><i class="fas fa-check-circle"></i> Free to join</div>
+          <div class="badge"><i class="fas fa-chart-line"></i> Live brackets</div>
+          <div class="badge"><i class="fas fa-users"></i> Team chat</div>
+        </div>
+        <div class="download-buttons">
+          <a href="#" id="btn-google" class="btn-download google"><i class="fab fa-google-play"></i> Google Play</a>
+          <a href="#" id="btn-apple" class="btn-download apple"><i class="fab fa-apple"></i> App Store</a>
+          <a href="#" id="btn-apk" class="btn-download apk"><i class="fas fa-download"></i> Direct APK</a>
+        </div>
+        <p class="qr-hint"><i class="fas fa-qrcode"></i> Scan from your phone → download instantly</p>
+      </div>
+      <div class="hero-mock">
+        <div class="phone-card">
+          <i class="fas fa-gamepad"></i>
+          <h3>ArenaX</h3>
+          <div class="tourney-chip">🔥 Live: City Cup</div>
+          <div class="mini-stats">
+            <span>8 teams</span>
+            <span>⏱️ quarterfinals</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- simple bottom CTA -->
+    <div class="bottom-cta">
+      <h2><i class="fas fa-mobile-alt"></i> Only on mobile</h2>
+      <p>Get the full tournament experience — download ArenaX today.</p>
+      <button id="bottom-download" class="btn-outline"><i class="fas fa-download"></i> Download now</button>
+    </div>
+
+    <footer>
+      <p>© 2025 ArenaX · local tournament organizer platform</p>
+      <p class="tiny">app download landing page — available for iOS & Android</p>
+    </footer>
+  </div>
+
+  <!-- toast message (JS will control) -->
+  <div id="toast-msg" class="toast-message">✨ ArenaX — App download ready</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
