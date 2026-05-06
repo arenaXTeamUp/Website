@@ -111,61 +111,47 @@ body {
   margin-right: 8px;
 }
 
-/* download buttons group */
-.download-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 1.5rem 0 1rem;
+/* APK main button */
+.download-area {
+  margin: 1.5rem 0 0.5rem;
 }
-.btn-download {
+.btn-apk-main {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
-  background: #1A1A1A;
-  border: 1px solid #2a2a2a;
-  padding: 0.8rem 1.5rem;
+  gap: 12px;
+  background: var(--yellow);
+  color: #000;
+  font-weight: 800;
+  font-size: 1.2rem;
+  padding: 0.9rem 2.2rem;
   border-radius: 60px;
-  font-weight: 700;
   text-decoration: none;
   transition: 0.2s ease;
-  color: white;
+  box-shadow: 0 8px 20px rgba(255, 215, 0, 0.3);
+  border: none;
+  cursor: pointer;
 }
-.btn-download i {
-  font-size: 1.3rem;
+.btn-apk-main i {
+  font-size: 1.4rem;
+  color: #000;
 }
-.google:hover, .apple:hover, .apk:hover {
+.btn-apk-main:hover {
+  background: #FFE55C;
   transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgba(255, 215, 0, 0.4);
 }
-.google {
-  background: var(--yellow);
-  color: black;
-  border: none;
-  box-shadow: 0 6px 14px rgba(255, 215, 0, 0.3);
+.info-text {
+  font-size: 0.75rem;
+  margin-top: 12px;
+  color: #aaa;
 }
-.google i {
-  color: black;
-}
-.apple {
-  background: #ffffff;
-  color: black;
-  border: none;
-}
-.apple i {
-  color: black;
-}
-.apk {
-  background: #222;
-  border: 1px solid var(--yellow);
-  color: var(--yellow);
-}
-.apk i {
+.info-text i {
   color: var(--yellow);
 }
 .qr-hint {
   font-size: 0.8rem;
   color: #aaa;
-  margin-top: 0.5rem;
+  margin-top: 0.8rem;
 }
 .qr-hint i {
   color: var(--yellow);
@@ -299,8 +285,8 @@ footer {
   .badges {
     justify-content: center;
   }
-  .download-buttons {
-    justify-content: center;
+  .download-area {
+    text-align: center;
   }
   .phone-card {
     margin-bottom: 1rem;
@@ -314,9 +300,9 @@ footer {
   .container {
     padding: 1.5rem 1rem;
   }
-  .btn-download {
-    padding: 0.6rem 1.2rem;
-    font-size: 0.85rem;
+  .btn-apk-main {
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
   }
   .logo {
     font-size: 2.2rem;
