@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   // ---------- IMPORTANT ----------
   // REPLACE THIS URL with your actual GitHub Release APK link
-  const APK_DOWNLOAD_URL = 'https://github.com/yourusername/arenaX/releases/download/v1.0/arenaX.apk';
+  const APK_DOWNLOAD_URL = 'https://github.com/arenaXTeamUp/website/releases/download/2.0.0/arenax.apk';
   // ------------------------------
   
   const toast = document.getElementById('toast-msg');
