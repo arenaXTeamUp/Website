@@ -1,0 +1,189 @@
+# Privacy Policy
+
+**Last Updated:** May 14, 2026
+
+Welcome to ArenaX.
+
+This Privacy Policy explains how ArenaX (“we,” “our,” or “us”) collects, uses, stores, and protects user information when you use the ArenaX mobile application and related services.
+
+By using ArenaX, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+---
+
+# 1. Information We Collect
+
+## a) Account Information
+
+When users create an account, we may collect:
+
+* Full name or username
+* Email address
+* Phone number
+* Profile photo
+* Team information
+* Social profile links (optional)
+
+## b) Tournament & Community Information
+
+We may collect:
+
+* Tournament participation history
+* Team details
+* Match results
+* Leaderboard points and rankings
+* User-generated tournament content
+* Messages or reports submitted to us
+
+## c) Device & Technical Information
+
+We may automatically collect:
+
+* Device model
+* Operating system version
+* App version
+* IP address
+* Device identifiers
+* Crash logs and diagnostics
+* Usage analytics
+
+## d) Location Information
+
+ArenaX may collect approximate or precise location data when users:
+
+* Search nearby tournaments
+* Use location radius filters
+* Open tournament venues in maps
+
+Location access is only used to improve tournament discovery and navigation features.
+
+---
+
+# 2. How We Use Information
+
+We use collected information to:
+
+* Create and manage user accounts
+* Enable tournament creation and participation
+* Manage teams and leaderboards
+* Improve tournament discovery features
+* Provide location-based tournament recommendations
+* Improve app performance and security
+* Prevent fraud, abuse, and cheating
+* Communicate important updates and support messages
+* Analyze app usage and improve user experience
+
+---
+
+# 3. Google Maps & Third-Party Services
+
+ArenaX may use third-party services including:
+
+* Google Maps
+* Firebase
+* Google Analytics
+* Authentication providers
+* Cloud storage providers
+
+These services may collect information according to their own privacy policies.
+
+Google Maps:
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Google Play Services:
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Firebase:
+[https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+
+---
+
+# 4. Data Sharing
+
+We do not sell users’ personal information.
+
+We may share limited information:
+
+* With tournament organizers for tournament operations
+* With service providers that help operate ArenaX
+* When required by law or legal process
+* To protect the safety, rights, and security of users and the platform
+
+---
+
+# 5. Data Security
+
+We use reasonable technical and organizational measures to protect user information against unauthorized access, loss, misuse, or alteration.
+
+However, no internet-based service can guarantee absolute security.
+
+---
+
+# 6. User Content
+
+Users are responsible for the content they upload, publish, or share on ArenaX, including:
+
+* Team names
+* Tournament details
+* Images
+* Profile information
+* Chat or community content
+
+ArenaX reserves the right to remove content that violates laws, community standards, or platform policies.
+
+---
+
+# 7. Children’s Privacy
+
+ArenaX is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from children under 13. If we become aware that such information has been collected, we will take appropriate steps to remove it.
+
+---
+
+# 8. User Rights
+
+Users may:
+
+* Update account information
+* Request account deletion
+* Request removal of certain personal data
+* Contact us regarding privacy concerns
+
+To request deletion or privacy support, contact us using the information below.
+
+---
+
+# 9. Data Retention
+
+We retain user information only for as long as necessary to:
+
+* Provide services
+* Maintain tournament records
+* Prevent fraud and abuse
+* Comply with legal obligations
+
+---
+
+# 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Updated versions will be posted within the ArenaX application or official website.
+
+Continued use of ArenaX after updates means you accept the revised Privacy Policy.
+
+---
+
+# 11. Contact Us
+
+If you have questions about this Privacy Policy or your data, contact us:
+
+ArenaX Support
+Email: [support@yourdomain.com](mailto:support@yourdomain.com)
+Website: [https://yourdomain.com](https://yourdomain.com)
+
+---
+
+# 12. Consent
+
+By using ArenaX, you consent to this Privacy Policy and agree to its terms.
