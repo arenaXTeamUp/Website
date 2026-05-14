@@ -1,3 +1,4 @@
+
 # Privacy Policy
 
 **Last Updated:** May 14, 2026
@@ -79,7 +80,7 @@ We use collected information to:
 ArenaX may use third-party services including:
 
 * Google Maps
-* Firebase
+* Supabase
 * Google Analytics
 * Authentication providers
 * Cloud storage providers
@@ -92,8 +93,8 @@ Google Maps:
 Google Play Services:
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Firebase:
-[https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+Supabase:
+[https://supabase.com/privacy](https://supabase.com/privacy)
 
 ---
 
